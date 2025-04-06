@@ -1,2 +1,2 @@
 # RainOSCloud
-Package manager for RainOS
+Branch where packages are stored.
